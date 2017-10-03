@@ -1,5 +1,5 @@
 package accounts;
-
+/*Saving accounts can only extract money if they have enough balance in their account.*/
 public class SavingsAccount extends BankAccount{
 	
 	public SavingsAccount(int id, float balance){
